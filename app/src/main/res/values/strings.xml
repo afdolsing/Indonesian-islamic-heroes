@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">Pahlawan Islam Indonesia</string>
+    <string name="app_name2">Aplikasi Pahlawan Islam Indonesia</string>
     <string name="hero_name">Nama Pahlawan</string>
     <string name="country_of_hero">Asal Pahlawan</string>
     <string name="name_about">Afdol Singgih Kusuma</string>
     <string name="email">singgih.student@gmail.com</string>
+    <string name="version">versi 1.1</string>
     <string name="deskripsi">deskripsi</string>
     <string name="Loading">loading</string>
     <string name="biografi">Biografi</string>

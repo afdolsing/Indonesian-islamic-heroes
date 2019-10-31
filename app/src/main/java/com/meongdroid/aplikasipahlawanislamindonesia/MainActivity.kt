@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 
+
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -22,4 +23,5 @@ class MainActivity : AppCompatActivity() {
         val intent = Intent(this,MenuActivity::class.java)
         startActivity(intent)
     }
+
 }
